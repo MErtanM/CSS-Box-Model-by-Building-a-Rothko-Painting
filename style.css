@@ -20,10 +20,13 @@
 }
 
 .two {
-  width:200px;
-  height:200px;
-  background-color:#8f0401;
+  width: 475px;
+  height: 200px;
+  background-color: #8f0401;
   margin:auto;
 
+}
 
+.three{
+  width:91%;
 }
